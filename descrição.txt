@@ -1,0 +1,13 @@
+    <div class="fotomarie">
+        <img src="transferir.jpeg" alt="Marie Curie">
+    </div>
+
+    <p class="introducao">Nascida Maria Salomea Skłodowska , Varsóvia, 7 de novembro de 1867, Marie Curie foi uma física e química polonêsa naturalizada francesa, que foi muito importante por ser a pioneira no estudo da radioatividade, inclusive mais especificamente e ela formou a "Teoria da radioatividade" técnicas para isolar isótopos radioativos, e a descoberta do Polônio e rádio, que são dois elementos químicos da tabela periódica. Nascida de um professor de física e matemática e de sua mãe que também era professora porém morrera quando Marie tinha somente 11 anos.
+    </p>
+
+
+    background-color: rgb(133, 196, 131);
+
+
+
+    <img src="fundo.jpg" alt="Foto de fundo" class="fotoFundo">
